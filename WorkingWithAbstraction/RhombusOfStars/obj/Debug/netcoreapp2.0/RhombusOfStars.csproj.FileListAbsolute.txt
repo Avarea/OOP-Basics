@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RhombusOfStars\bin\Debug\netcoreapp2.0\RhombusOfStars.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RhombusOfStars\bin\Debug\netcoreapp2.0\RhombusOfStars.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RhombusOfStars\bin\Debug\netcoreapp2.0\RhombusOfStars.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RhombusOfStars\bin\Debug\netcoreapp2.0\RhombusOfStars.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RhombusOfStars\bin\Debug\netcoreapp2.0\RhombusOfStars.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.pdb
