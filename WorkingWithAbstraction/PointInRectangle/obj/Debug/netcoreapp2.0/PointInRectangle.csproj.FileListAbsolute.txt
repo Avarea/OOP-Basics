@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.pdb
