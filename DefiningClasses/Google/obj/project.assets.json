@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\C-Advanced\\DefiningClasses\\Google\\Google.csproj",
+      "projectUniqueName": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\OOP-Basics\\DefiningClasses\\Google\\Google.csproj",
       "projectName": "Google",
-      "projectPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\C-Advanced\\DefiningClasses\\Google\\Google.csproj",
+      "projectPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\OOP-Basics\\DefiningClasses\\Google\\Google.csproj",
       "packagesPath": "C:\\Users\\Gzero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\C-Advanced\\DefiningClasses\\Google\\obj\\",
+      "outputPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\OOP-Basics\\DefiningClasses\\Google\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

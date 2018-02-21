@@ -9,3 +9,14 @@ C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\Google\obj\Debug\ne
 C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.AssemblyInfo.cs
 C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.dll
 C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\Google\bin\Debug\netcoreapp2.0\Google.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\Google\bin\Debug\netcoreapp2.0\Google.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\Google\bin\Debug\netcoreapp2.0\Google.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\Google\bin\Debug\netcoreapp2.0\Google.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\Google\bin\Debug\netcoreapp2.0\Google.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.pdb

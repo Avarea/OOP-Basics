@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\C-Advanced\\DefiningClasses\\CreatingConstructors\\CreatingConstructors.csproj",
+      "projectUniqueName": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\OOP-Basics\\DefiningClasses\\CreatingConstructors\\CreatingConstructors.csproj",
       "projectName": "CreatingConstructors",
-      "projectPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\C-Advanced\\DefiningClasses\\CreatingConstructors\\CreatingConstructors.csproj",
+      "projectPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\OOP-Basics\\DefiningClasses\\CreatingConstructors\\CreatingConstructors.csproj",
       "packagesPath": "C:\\Users\\Gzero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\C-Advanced\\DefiningClasses\\CreatingConstructors\\obj\\",
+      "outputPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\OOP-Basics\\DefiningClasses\\CreatingConstructors\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

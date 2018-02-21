@@ -90,8 +90,33 @@ class Program
                     person.Parents.AddRange(copyPerson.Parents);
                     person.Parents = person.Parents.Distinct().ToList();
 
+                    foreach (var parent in copyPerson.Parents)
+                    {
+                        int copyPersonIndex = parent.Children.IndexOf(copyPerson);
+                        if (copyPersonIndex > -1)
+                        {
+                            parent.Children[copyPersonIndex] = person;
+                        }
+                        else
+                        {
+                            parent.Children.Add(person);
+                        }
+                    }
+
                     person.Children.AddRange(copyPerson.Children);
                     person.Children = person.Children.Distinct().ToList();
+                    foreach (var child in copyPerson.Children)
+                    {
+                        int copyPersonIndex = child.Parents.IndexOf(copyPerson);
+                        if (copyPersonIndex > -1)
+                        {
+                            child.Parents[copyPersonIndex] = person;
+                        }
+                        else
+                        {
+                            child.Parents.Add(person);
+                        }
+                    }
                 }
             }
         }

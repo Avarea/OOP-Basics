@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\C-Advanced\\DefiningClasses\\OldestFamilyMember\\OldestFamilyMember.csproj",
+      "projectUniqueName": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\OOP-Basics\\DefiningClasses\\OldestFamilyMember\\OldestFamilyMember.csproj",
       "projectName": "OldestFamilyMember",
-      "projectPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\C-Advanced\\DefiningClasses\\OldestFamilyMember\\OldestFamilyMember.csproj",
+      "projectPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\OOP-Basics\\DefiningClasses\\OldestFamilyMember\\OldestFamilyMember.csproj",
       "packagesPath": "C:\\Users\\Gzero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\C-Advanced\\DefiningClasses\\OldestFamilyMember\\obj\\",
+      "outputPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\OOP-Basics\\DefiningClasses\\OldestFamilyMember\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

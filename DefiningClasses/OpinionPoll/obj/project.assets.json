@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\C-Advanced\\DefiningClasses\\OpinionPoll\\OpinionPoll.csproj",
+      "projectUniqueName": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\OOP-Basics\\DefiningClasses\\OpinionPoll\\OpinionPoll.csproj",
       "projectName": "OpinionPoll",
-      "projectPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\C-Advanced\\DefiningClasses\\OpinionPoll\\OpinionPoll.csproj",
+      "projectPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\OOP-Basics\\DefiningClasses\\OpinionPoll\\OpinionPoll.csproj",
       "packagesPath": "C:\\Users\\Gzero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\C-Advanced\\DefiningClasses\\OpinionPoll\\obj\\",
+      "outputPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\OOP-Basics\\DefiningClasses\\OpinionPoll\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

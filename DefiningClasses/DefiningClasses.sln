@@ -31,13 +31,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RectangleIntersection", "Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarSalesman", "CarSalesman\CarSalesman.csproj", "{F9ED2092-F399-4E32-A4E7-A1B842A7C82B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonTrainer", "PokemonTrainer\PokemonTrainer.csproj", "{7DDCCD0B-13DE-43BC-9EDE-C3BE3E371DE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonTrainer", "PokemonTrainer\PokemonTrainer.csproj", "{7DDCCD0B-13DE-43BC-9EDE-C3BE3E371DE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google", "Google\Google.csproj", "{F9DFB786-6866-4ADF-9F5F-CD9F93655EE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Google", "Google\Google.csproj", "{F9DFB786-6866-4ADF-9F5F-CD9F93655EE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTree", "FamilyTree\FamilyTree.csproj", "{58160C77-46BF-459F-B45B-2B2D3917F79E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FamilyTree", "FamilyTree\FamilyTree.csproj", "{58160C77-46BF-459F-B45B-2B2D3917F79E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingТool", "DrawingТool\DrawingТool.csproj", "{408E0B95-F72E-4F7B-B5AA-9974E85E0BAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrawingТool", "DrawingТool\DrawingТool.csproj", "{408E0B95-F72E-4F7B-B5AA-9974E85E0BAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatLady", "CatLady\CatLady.csproj", "{3BA707A6-3966-4799-9669-219BF1AAB082}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{408E0B95-F72E-4F7B-B5AA-9974E85E0BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{408E0B95-F72E-4F7B-B5AA-9974E85E0BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{408E0B95-F72E-4F7B-B5AA-9974E85E0BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA707A6-3966-4799-9669-219BF1AAB082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA707A6-3966-4799-9669-219BF1AAB082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA707A6-3966-4799-9669-219BF1AAB082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA707A6-3966-4799-9669-219BF1AAB082}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

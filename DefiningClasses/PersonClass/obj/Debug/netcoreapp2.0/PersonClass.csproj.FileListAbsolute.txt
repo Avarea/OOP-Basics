@@ -20,3 +20,14 @@ C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\PersonClass\obj\Deb
 C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.AssemblyInfo.cs
 C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.dll
 C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\PersonClass\bin\Debug\netcoreapp2.0\PersonClass.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\PersonClass\bin\Debug\netcoreapp2.0\PersonClass.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\PersonClass\bin\Debug\netcoreapp2.0\PersonClass.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\PersonClass\bin\Debug\netcoreapp2.0\PersonClass.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\PersonClass\bin\Debug\netcoreapp2.0\PersonClass.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\DefiningClasses\PersonClass\obj\Debug\netcoreapp2.0\PersonClass.pdb
