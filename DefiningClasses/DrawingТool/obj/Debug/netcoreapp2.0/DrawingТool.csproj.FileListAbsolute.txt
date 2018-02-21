@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\DrawingТool\bin\Debug\netcoreapp2.0\DrawingТool.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\DrawingТool\bin\Debug\netcoreapp2.0\DrawingТool.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\DrawingТool\bin\Debug\netcoreapp2.0\DrawingТool.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\DrawingТool\bin\Debug\netcoreapp2.0\DrawingТool.dll
+C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\DrawingТool\bin\Debug\netcoreapp2.0\DrawingТool.pdb
+C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\DrawingТool\obj\Debug\netcoreapp2.0\DrawingТool.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\DrawingТool\obj\Debug\netcoreapp2.0\DrawingТool.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\DrawingТool\obj\Debug\netcoreapp2.0\DrawingТool.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\DrawingТool\obj\Debug\netcoreapp2.0\DrawingТool.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\DrawingТool\obj\Debug\netcoreapp2.0\DrawingТool.dll
+C:\Users\Gzero\Desktop\OOP Basics\C-Advanced\DefiningClasses\DrawingТool\obj\Debug\netcoreapp2.0\DrawingТool.pdb
