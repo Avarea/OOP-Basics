@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RawData\bin\Debug\netcoreapp2.0\RawData.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RawData\bin\Debug\netcoreapp2.0\RawData.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RawData\bin\Debug\netcoreapp2.0\RawData.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RawData\bin\Debug\netcoreapp2.0\RawData.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RawData\bin\Debug\netcoreapp2.0\RawData.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RawData\obj\Debug\netcoreapp2.0\RawData.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RawData\obj\Debug\netcoreapp2.0\RawData.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RawData\obj\Debug\netcoreapp2.0\RawData.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RawData\obj\Debug\netcoreapp2.0\RawData.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RawData\obj\Debug\netcoreapp2.0\RawData.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\RawData\obj\Debug\netcoreapp2.0\RawData.pdb
