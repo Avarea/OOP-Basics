@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\HotelReservation\bin\Debug\netcoreapp2.0\HotelReservation.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\HotelReservation\bin\Debug\netcoreapp2.0\HotelReservation.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\HotelReservation\bin\Debug\netcoreapp2.0\HotelReservation.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\HotelReservation\bin\Debug\netcoreapp2.0\HotelReservation.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\HotelReservation\bin\Debug\netcoreapp2.0\HotelReservation.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.pdb
