@@ -1,0 +1,10 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Hospital\bin\Debug\netcoreapp2.0\Hospital.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Hospital\bin\Debug\netcoreapp2.0\Hospital.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Hospital\bin\Debug\netcoreapp2.0\Hospital.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Hospital\bin\Debug\netcoreapp2.0\Hospital.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Hospital\bin\Debug\netcoreapp2.0\Hospital.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Hospital\obj\Debug\netcoreapp2.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Hospital\obj\Debug\netcoreapp2.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Hospital\obj\Debug\netcoreapp2.0\Hospital.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Hospital\obj\Debug\netcoreapp2.0\Hospital.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Hospital\obj\Debug\netcoreapp2.0\Hospital.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.pdb

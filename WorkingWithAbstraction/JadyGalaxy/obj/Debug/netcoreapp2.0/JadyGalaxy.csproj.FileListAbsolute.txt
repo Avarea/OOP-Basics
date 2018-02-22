@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\JadyGalaxy\bin\Debug\netcoreapp2.0\JadyGalaxy.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\JadyGalaxy\bin\Debug\netcoreapp2.0\JadyGalaxy.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\JadyGalaxy\bin\Debug\netcoreapp2.0\JadyGalaxy.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\JadyGalaxy\bin\Debug\netcoreapp2.0\JadyGalaxy.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\JadyGalaxy\bin\Debug\netcoreapp2.0\JadyGalaxy.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\JadyGalaxy\obj\Debug\netcoreapp2.0\JadyGalaxy.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\JadyGalaxy\obj\Debug\netcoreapp2.0\JadyGalaxy.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\JadyGalaxy\obj\Debug\netcoreapp2.0\JadyGalaxy.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\JadyGalaxy\obj\Debug\netcoreapp2.0\JadyGalaxy.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\JadyGalaxy\obj\Debug\netcoreapp2.0\JadyGalaxy.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\JadyGalaxy\obj\Debug\netcoreapp2.0\JadyGalaxy.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\WorkingWithAbstraction\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.pdb
