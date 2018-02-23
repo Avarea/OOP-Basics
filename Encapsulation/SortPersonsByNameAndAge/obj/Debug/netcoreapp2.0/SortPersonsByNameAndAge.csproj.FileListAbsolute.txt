@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\SortPersonsByNameAndAge.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\SortPersonsByNameAndAge.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\SortPersonsByNameAndAge.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\SortPersonsByNameAndAge.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\SortPersonsByNameAndAge.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAndAge.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAndAge.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAndAge.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAndAge.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAndAge.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAndAge.pdb

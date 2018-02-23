@@ -1,0 +1,10 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\bin\Debug\netcoreapp2.0\FirstAndReserveTeam.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\bin\Debug\netcoreapp2.0\FirstAndReserveTeam.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\bin\Debug\netcoreapp2.0\FirstAndReserveTeam.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\bin\Debug\netcoreapp2.0\FirstAndReserveTeam.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\bin\Debug\netcoreapp2.0\FirstAndReserveTeam.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.0\FirstAndReserveTeam.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.0\FirstAndReserveTeam.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.0\FirstAndReserveTeam.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.0\FirstAndReserveTeam.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.0\FirstAndReserveTeam.pdb
