@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Person\bin\Debug\netcoreapp2.0\Person.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Person\bin\Debug\netcoreapp2.0\Person.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Person\bin\Debug\netcoreapp2.0\Person.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Person\bin\Debug\netcoreapp2.0\Person.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Person\bin\Debug\netcoreapp2.0\Person.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Person\obj\Debug\netcoreapp2.0\Person.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Person\obj\Debug\netcoreapp2.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Person\obj\Debug\netcoreapp2.0\Person.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Person\obj\Debug\netcoreapp2.0\Person.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Person\obj\Debug\netcoreapp2.0\Person.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Person\obj\Debug\netcoreapp2.0\Person.pdb

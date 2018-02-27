@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\HierarchicalInheritance\bin\Debug\netcoreapp2.0\HierarchicalInheritance.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\HierarchicalInheritance\bin\Debug\netcoreapp2.0\HierarchicalInheritance.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\HierarchicalInheritance\bin\Debug\netcoreapp2.0\HierarchicalInheritance.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\HierarchicalInheritance\bin\Debug\netcoreapp2.0\HierarchicalInheritance.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\HierarchicalInheritance\bin\Debug\netcoreapp2.0\HierarchicalInheritance.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\HierarchicalInheritance\obj\Debug\netcoreapp2.0\HierarchicalInheritance.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\HierarchicalInheritance\obj\Debug\netcoreapp2.0\HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\HierarchicalInheritance\obj\Debug\netcoreapp2.0\HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\HierarchicalInheritance\obj\Debug\netcoreapp2.0\HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\HierarchicalInheritance\obj\Debug\netcoreapp2.0\HierarchicalInheritance.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\HierarchicalInheritance\obj\Debug\netcoreapp2.0\HierarchicalInheritance.pdb
