@@ -1,0 +1,11 @@
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBoxDataValidation\bin\Debug\netcoreapp2.0\ClassBoxDataValidation.deps.json
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBoxDataValidation\bin\Debug\netcoreapp2.0\ClassBoxDataValidation.runtimeconfig.json
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBoxDataValidation\bin\Debug\netcoreapp2.0\ClassBoxDataValidation.runtimeconfig.dev.json
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBoxDataValidation\bin\Debug\netcoreapp2.0\ClassBoxDataValidation.dll
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBoxDataValidation\bin\Debug\netcoreapp2.0\ClassBoxDataValidation.pdb
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.0\ClassBoxDataValidation.csprojResolveAssemblyReference.cache
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.0\ClassBoxDataValidation.csproj.CoreCompileInputs.cache
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.0\ClassBoxDataValidation.AssemblyInfoInputs.cache
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.0\ClassBoxDataValidation.AssemblyInfo.cs
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.0\ClassBoxDataValidation.dll
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.0\ClassBoxDataValidation.pdb

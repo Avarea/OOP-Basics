@@ -1,0 +1,11 @@
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.deps.json
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.runtimeconfig.json
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.runtimeconfig.dev.json
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.dll
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.pdb
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.csprojResolveAssemblyReference.cache
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.csproj.CoreCompileInputs.cache
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.AssemblyInfoInputs.cache
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.AssemblyInfo.cs
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.dll
+G:\OOP Basics\OOP-Basics\Encapsulation\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.pdb

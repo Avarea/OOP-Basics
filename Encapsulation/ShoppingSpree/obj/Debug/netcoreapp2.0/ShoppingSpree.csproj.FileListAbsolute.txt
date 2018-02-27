@@ -1,0 +1,11 @@
+G:\OOP Basics\OOP-Basics\Encapsulation\ShoppingSpree\bin\Debug\netcoreapp2.0\ShoppingSpree.deps.json
+G:\OOP Basics\OOP-Basics\Encapsulation\ShoppingSpree\bin\Debug\netcoreapp2.0\ShoppingSpree.runtimeconfig.json
+G:\OOP Basics\OOP-Basics\Encapsulation\ShoppingSpree\bin\Debug\netcoreapp2.0\ShoppingSpree.runtimeconfig.dev.json
+G:\OOP Basics\OOP-Basics\Encapsulation\ShoppingSpree\bin\Debug\netcoreapp2.0\ShoppingSpree.dll
+G:\OOP Basics\OOP-Basics\Encapsulation\ShoppingSpree\bin\Debug\netcoreapp2.0\ShoppingSpree.pdb
+G:\OOP Basics\OOP-Basics\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp2.0\ShoppingSpree.csprojResolveAssemblyReference.cache
+G:\OOP Basics\OOP-Basics\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp2.0\ShoppingSpree.csproj.CoreCompileInputs.cache
+G:\OOP Basics\OOP-Basics\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp2.0\ShoppingSpree.AssemblyInfoInputs.cache
+G:\OOP Basics\OOP-Basics\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp2.0\ShoppingSpree.AssemblyInfo.cs
+G:\OOP Basics\OOP-Basics\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp2.0\ShoppingSpree.dll
+G:\OOP Basics\OOP-Basics\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp2.0\ShoppingSpree.pdb

@@ -1,0 +1,11 @@
+G:\OOP Basics\OOP-Basics\Encapsulation\AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.deps.json
+G:\OOP Basics\OOP-Basics\Encapsulation\AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.runtimeconfig.json
+G:\OOP Basics\OOP-Basics\Encapsulation\AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.runtimeconfig.dev.json
+G:\OOP Basics\OOP-Basics\Encapsulation\AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.dll
+G:\OOP Basics\OOP-Basics\Encapsulation\AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.pdb
+G:\OOP Basics\OOP-Basics\Encapsulation\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.csprojResolveAssemblyReference.cache
+G:\OOP Basics\OOP-Basics\Encapsulation\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.csproj.CoreCompileInputs.cache
+G:\OOP Basics\OOP-Basics\Encapsulation\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.AssemblyInfoInputs.cache
+G:\OOP Basics\OOP-Basics\Encapsulation\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.AssemblyInfo.cs
+G:\OOP Basics\OOP-Basics\Encapsulation\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.dll
+G:\OOP Basics\OOP-Basics\Encapsulation\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.pdb

@@ -1,0 +1,3 @@
+G:\OOP Basics\OOP-Basics\Encapsulation\FootballTeamGenerator\obj\Debug\netcoreapp2.0\FootballTeamGenerator.csproj.CoreCompileInputs.cache
+G:\OOP Basics\OOP-Basics\Encapsulation\FootballTeamGenerator\obj\Debug\netcoreapp2.0\FootballTeamGenerator.AssemblyInfoInputs.cache
+G:\OOP Basics\OOP-Basics\Encapsulation\FootballTeamGenerator\obj\Debug\netcoreapp2.0\FootballTeamGenerator.AssemblyInfo.cs
