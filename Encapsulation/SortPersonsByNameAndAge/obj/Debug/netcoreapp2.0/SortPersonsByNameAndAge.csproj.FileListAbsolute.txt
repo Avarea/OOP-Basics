@@ -9,6 +9,7 @@ C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndA
 C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAndAge.AssemblyInfo.cs
 C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAndAge.dll
 C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAndAge.pdb
+<<<<<<< HEAD
 G:\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\SortPersonsByNameAndAge.deps.json
 G:\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\SortPersonsByNameAndAge.runtimeconfig.json
 G:\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\SortPersonsByNameAndAge.runtimeconfig.dev.json
@@ -20,3 +21,5 @@ G:\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcore
 G:\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAndAge.AssemblyInfo.cs
 G:\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAndAge.dll
 G:\OOP Basics\OOP-Basics\Encapsulation\SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\SortPersonsByNameAndAge.pdb
+=======
+>>>>>>> 40ed7d9883d4845983158fbf268274070656e80d

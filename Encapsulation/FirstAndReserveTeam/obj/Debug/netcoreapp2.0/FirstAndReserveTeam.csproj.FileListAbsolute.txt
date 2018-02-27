@@ -8,6 +8,7 @@ C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\o
 C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.0\FirstAndReserveTeam.AssemblyInfo.cs
 C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.0\FirstAndReserveTeam.dll
 C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.0\FirstAndReserveTeam.pdb
+<<<<<<< HEAD
 G:\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\bin\Debug\netcoreapp2.0\FirstAndReserveTeam.deps.json
 G:\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\bin\Debug\netcoreapp2.0\FirstAndReserveTeam.runtimeconfig.json
 G:\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\bin\Debug\netcoreapp2.0\FirstAndReserveTeam.runtimeconfig.dev.json
@@ -19,3 +20,5 @@ G:\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2
 G:\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.0\FirstAndReserveTeam.AssemblyInfo.cs
 G:\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.0\FirstAndReserveTeam.dll
 G:\OOP Basics\OOP-Basics\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.0\FirstAndReserveTeam.pdb
+=======
+>>>>>>> 40ed7d9883d4845983158fbf268274070656e80d

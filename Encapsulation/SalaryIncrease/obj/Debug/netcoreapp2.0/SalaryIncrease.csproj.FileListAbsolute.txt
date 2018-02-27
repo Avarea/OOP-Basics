@@ -9,6 +9,7 @@ C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SalaryIncrease\bin\De
 C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SalaryIncrease\bin\Debug\netcoreapp2.0\SalaryIncrease.pdb
 C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SalaryIncrease\obj\Debug\netcoreapp2.0\SalaryIncrease.dll
 C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\SalaryIncrease\obj\Debug\netcoreapp2.0\SalaryIncrease.pdb
+<<<<<<< HEAD
 G:\OOP Basics\OOP-Basics\Encapsulation\SalaryIncrease\bin\Debug\netcoreapp2.0\SalaryIncrease.deps.json
 G:\OOP Basics\OOP-Basics\Encapsulation\SalaryIncrease\bin\Debug\netcoreapp2.0\SalaryIncrease.runtimeconfig.json
 G:\OOP Basics\OOP-Basics\Encapsulation\SalaryIncrease\bin\Debug\netcoreapp2.0\SalaryIncrease.runtimeconfig.dev.json
@@ -20,3 +21,5 @@ G:\OOP Basics\OOP-Basics\Encapsulation\SalaryIncrease\obj\Debug\netcoreapp2.0\Sa
 G:\OOP Basics\OOP-Basics\Encapsulation\SalaryIncrease\obj\Debug\netcoreapp2.0\SalaryIncrease.AssemblyInfo.cs
 G:\OOP Basics\OOP-Basics\Encapsulation\SalaryIncrease\obj\Debug\netcoreapp2.0\SalaryIncrease.dll
 G:\OOP Basics\OOP-Basics\Encapsulation\SalaryIncrease\obj\Debug\netcoreapp2.0\SalaryIncrease.pdb
+=======
+>>>>>>> 40ed7d9883d4845983158fbf268274070656e80d

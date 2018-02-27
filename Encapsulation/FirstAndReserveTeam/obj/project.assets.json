@@ -664,8 +664,12 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\valch_000\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+=======
+    "C:\\Users\\Gzero\\.nuget\\packages\\": {},
+>>>>>>> 40ed7d9883d4845983158fbf268274070656e80d
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -674,6 +678,7 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "G:\\OOP Basics\\OOP-Basics\\Encapsulation\\FirstAndReserveTeam\\FirstAndReserveTeam.csproj",
       "projectName": "FirstAndReserveTeam",
       "projectPath": "G:\\OOP Basics\\OOP-Basics\\Encapsulation\\FirstAndReserveTeam\\FirstAndReserveTeam.csproj",
@@ -688,6 +693,20 @@
         "C:\\Users\\valch_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+=======
+      "projectUniqueName": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\OOP-Basics\\Encapsulation\\FirstAndReserveTeam\\FirstAndReserveTeam.csproj",
+      "projectName": "FirstAndReserveTeam",
+      "projectPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\OOP-Basics\\Encapsulation\\FirstAndReserveTeam\\FirstAndReserveTeam.csproj",
+      "packagesPath": "C:\\Users\\Gzero\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gzero\\Desktop\\OOP Basics\\OOP-Basics\\Encapsulation\\FirstAndReserveTeam\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Gzero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> 40ed7d9883d4845983158fbf268274070656e80d
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

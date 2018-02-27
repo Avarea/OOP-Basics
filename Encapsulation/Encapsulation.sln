@@ -1,6 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+<<<<<<< HEAD
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortPersonsByNameAndAge", "SortPersonsByNameAndAge\SortPersonsByNameAndAge.csproj", "{54419B6F-760D-4B1B-9C70-E2A54057BD8D}"
@@ -22,6 +23,17 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaCalories", "PizzaCalories\PizzaCalories.csproj", "{09BAE2A2-34EC-4C0C-8D5F-0FFF2B15A913}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballTeamGenerator", "FootballTeamGenerator\FootballTeamGenerator.csproj", "{8591794D-27D8-4139-A5DC-E1B18B8EC47F}"
+=======
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortPersonsByNameAndAge", "SortPersonsByNameAndAge\SortPersonsByNameAndAge.csproj", "{54419B6F-760D-4B1B-9C70-E2A54057BD8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryIncrease", "SalaryIncrease\SalaryIncrease.csproj", "{EF0C128C-440D-4E28-B53B-5A2E05FA1191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationOfData", "ValidationOfData\ValidationOfData.csproj", "{CFC81164-5A9A-4F15-AC57-391C3D8735D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstAndReserveTeam", "FirstAndReserveTeam\FirstAndReserveTeam.csproj", "{F1D7AB37-F497-43B2-8F1A-AA1EA4A05A05}"
+>>>>>>> 40ed7d9883d4845983158fbf268274070656e80d
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +57,7 @@ Global
 		{F1D7AB37-F497-43B2-8F1A-AA1EA4A05A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1D7AB37-F497-43B2-8F1A-AA1EA4A05A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1D7AB37-F497-43B2-8F1A-AA1EA4A05A05}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{8FF06401-5A0B-4AC4-B9F6-47D1A299F6D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8FF06401-5A0B-4AC4-B9F6-47D1A299F6D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FF06401-5A0B-4AC4-B9F6-47D1A299F6D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -69,6 +82,8 @@ Global
 		{8591794D-27D8-4139-A5DC-E1B18B8EC47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8591794D-27D8-4139-A5DC-E1B18B8EC47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8591794D-27D8-4139-A5DC-E1B18B8EC47F}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 40ed7d9883d4845983158fbf268274070656e80d
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

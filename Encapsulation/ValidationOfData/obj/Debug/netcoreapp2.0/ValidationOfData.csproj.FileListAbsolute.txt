@@ -9,6 +9,7 @@ C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\ValidationOfData\obj\
 C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.0\ValidationOfData.AssemblyInfo.cs
 C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.0\ValidationOfData.dll
 C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.0\ValidationOfData.pdb
+<<<<<<< HEAD
 G:\OOP Basics\OOP-Basics\Encapsulation\ValidationOfData\bin\Debug\netcoreapp2.0\ValidationOfData.deps.json
 G:\OOP Basics\OOP-Basics\Encapsulation\ValidationOfData\bin\Debug\netcoreapp2.0\ValidationOfData.runtimeconfig.json
 G:\OOP Basics\OOP-Basics\Encapsulation\ValidationOfData\bin\Debug\netcoreapp2.0\ValidationOfData.runtimeconfig.dev.json
@@ -20,3 +21,5 @@ G:\OOP Basics\OOP-Basics\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.0\
 G:\OOP Basics\OOP-Basics\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.0\ValidationOfData.AssemblyInfo.cs
 G:\OOP Basics\OOP-Basics\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.0\ValidationOfData.dll
 G:\OOP Basics\OOP-Basics\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.0\ValidationOfData.pdb
+=======
+>>>>>>> 40ed7d9883d4845983158fbf268274070656e80d
