@@ -20,3 +20,14 @@ G:\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.Asse
 G:\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
 G:\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
 G:\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb

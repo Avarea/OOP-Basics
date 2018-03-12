@@ -1,27 +1,50 @@
 ﻿using System.Collections.Generic;
-using BashSoft;
+using BashSoft.Exceptions;
 
 public class Course
 {
-    public string name;
-    public Dictionary<string, Student> StudentsByName;
+    private string name;
+    private Dictionary<string, Student> studentsByName;
     public const int NumberOfTasksOnExam = 5;
     public const int MaxScoreOnExamTask = 100;
 
     public Course(string name)
     {
-        this.name = name;
-        this.StudentsByName = new Dictionary<string, Student>();
+        this.Name = name;
+        this.studentsByName = new Dictionary<string, Student>();
+    }
+
+    public string Name
+    {
+        get
+        {
+            return this.name;
+
+        }
+        private set
+        {
+            if (string.IsNullOrEmpty(value))
+            {
+                throw new InvalidStringException();
+            }
+
+            this.name = value;
+        }
+    }
+
+    public Dictionary<string, Student> StudentsByName
+    {
+        get { return this.studentsByName; }
     }
 
     public void EnrollStudent(Student student)
     {
-        if (this.StudentsByName.ContainsKey(student.userName))
+        if (this.StudentsByName.ContainsKey(student.UserName))
         {
-            OutputWriter.DisplayException(string.Format(ExceptionMessages.StudentAlreadyEnrolledInGivenCourse,student.userName, this.name));
-            return;
+            throw new DuplicateEntryInStructureException(student.UserName, this.Name);
+
         }
-        this.StudentsByName.Add(student.userName, student);
+        this.StudentsByName.Add(student.UserName, student);
     }
 }
 

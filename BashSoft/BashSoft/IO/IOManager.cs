@@ -1,9 +1,10 @@
-﻿namespace BashSoft
-{
-    using System;
-    using System.Collections.Generic;
-    using System.IO;
+﻿using BashSoft.Exceptions;
+using System;
+using System.Collections.Generic;
+using System.IO;
 
+namespace BashSoft
+{
     public class IOManager
     {
         public void TraverseDirectory(int depth)
@@ -58,7 +59,7 @@
             }
             catch (ArgumentException)
             {
-                OutputWriter.DisplayException(ExceptionMessages.ForbiddenSymbolsContainedInName);
+                throw new InvalidFileNameException();
             }
         }
 
@@ -75,7 +76,7 @@
                 }
                 catch (ArgumentOutOfRangeException)
                 {
-                    OutputWriter.DisplayException(ExceptionMessages.UnableToGoHigherInPartitionHierarchy);
+                    throw new ArgumentOutOfRangeException("indexOfLastSlash", ExceptionMessages.UnableToGoHigherInPartitionHierarchy);
                 }
             }
             else
@@ -90,8 +91,7 @@
         {
             if (!Directory.Exists(absolutePath))
             {
-                OutputWriter.DisplayException(ExceptionMessages.InvalidPath);
-                return;
+                throw new InvalidPathException();
             }
             SessionData.currentPath = absolutePath;
         }

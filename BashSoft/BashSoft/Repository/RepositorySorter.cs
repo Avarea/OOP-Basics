@@ -1,9 +1,9 @@
-﻿namespace BashSoft
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
+namespace BashSoft
+{
     public class RepositorySorter
     {
         public void OrderAndTake(Dictionary<string, double> studentsWithMarks,
@@ -19,7 +19,7 @@
             }
             else if (comparison == "descending")
             {
-                this.PrintStudent(studentsWithMarks.OrderByDescending(x => x.Value)
+                PrintStudent(studentsWithMarks.OrderByDescending(x => x.Value)
                     .Take(studentsToTake)
                     .ToDictionary(pair => pair.Key, pair => pair.Value));
             }
@@ -37,5 +37,4 @@
             }
         }
     }
-
 }

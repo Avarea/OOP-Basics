@@ -1,6 +1,6 @@
 ﻿namespace BashSoft
 {
-    using BashSoft.Static_data;
+    using Static_data;
 
     class Launcher
     {

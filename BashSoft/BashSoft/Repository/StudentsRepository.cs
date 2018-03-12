@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
+using BashSoft.Exceptions;
 
 namespace BashSoft
 {
@@ -58,8 +59,8 @@ namespace BashSoft
         {
             if (this.isDataInitialized)
             {
-                OutputWriter.WriteMessageOnNewLine(ExceptionMessages.DataAlreadyInitializedException);
-                return;
+                throw new ArgumentException(ExceptionMessages.DataAlreadyInitializedException);
+
             }
             OutputWriter.WriteMessageOnNewLine("Reading data...");
             this.students = new Dictionary<string, Student>();
@@ -71,7 +72,7 @@ namespace BashSoft
         {
             if (!this.isDataInitialized)
             {
-                OutputWriter.DisplayException(ExceptionMessages.DataNotInitializedExceptionMessage);
+                throw new ArgumentException(ExceptionMessages.DataNotInitializedExceptionMessage);
             }
             this.students = null;
             this.courses = null;
@@ -145,7 +146,7 @@ namespace BashSoft
             }
             else
             {
-                //throw new InvalidPathException();
+                throw new InvalidPathException();
             }
 
             isDataInitialized = true;

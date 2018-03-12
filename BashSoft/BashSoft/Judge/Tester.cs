@@ -1,7 +1,10 @@
-﻿namespace BashSoft
+﻿using BashSoft.Exceptions;
+
+namespace BashSoft
 {
     using System;
     using System.IO;
+
 
     public class Tester
     {
@@ -32,9 +35,9 @@
                 PrintOutput(mismatches, hasMismatch, mismatchPath);
                 OutputWriter.WriteMessageOnNewLine("Files read!");
             }
-            catch (FileNotFoundException)
+            catch (IOException)
             {
-                OutputWriter.DisplayException(ExceptionMessages.InvalidPath);
+                throw new InvalidPathException();
             }
         }
 
@@ -46,15 +49,7 @@
                 {
                     OutputWriter.WriteMessageOnNewLine(line);
                 }
-
-                try
-                {
-                    File.WriteAllLines(missmatchPath, missmatches);
-                }
-                catch (DirectoryNotFoundException)
-                {
-                    OutputWriter.DisplayException(ExceptionMessages.InvalidPath);
-                }
+                File.WriteAllLines(missmatchPath, missmatches);
 
                 return;
             }
