@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\RandomList\bin\Debug\netcoreapp2.0\RandomList.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\RandomList\bin\Debug\netcoreapp2.0\RandomList.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\RandomList\bin\Debug\netcoreapp2.0\RandomList.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\RandomList\bin\Debug\netcoreapp2.0\RandomList.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\RandomList\bin\Debug\netcoreapp2.0\RandomList.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\RandomList\obj\Debug\netcoreapp2.0\RandomList.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\RandomList\obj\Debug\netcoreapp2.0\RandomList.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\RandomList\obj\Debug\netcoreapp2.0\RandomList.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\RandomList\obj\Debug\netcoreapp2.0\RandomList.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\RandomList\obj\Debug\netcoreapp2.0\RandomList.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\RandomList\obj\Debug\netcoreapp2.0\RandomList.pdb

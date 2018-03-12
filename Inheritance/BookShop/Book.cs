@@ -9,39 +9,42 @@ public class Book
 
     public string Title
     {
-        get { return this.title; }
+        get => this.title;
         set
         {
-            if (value.Length < 3 || value == null)
+            if (value.Length < 3)
             {
                 throw new ArgumentException("Title not valid!");
             }
+
             this.title = value;
         }
     }
 
     public string Author
     {
-        get { return this.author; }
+        get => this.author;
         set
         {
-            if (value == null)
+            if (string.IsNullOrEmpty(value))
             {
                 throw new ArgumentException("Author not valid!");
             }
 
-            string[] authorFullname = value.Split();
-            if (char.IsDigit(authorFullname[authorFullname.Length - 1][0]))
+            string[] authorFullName = value.Split();
+
+            if (char.IsDigit(authorFullName[authorFullName.Length - 1][0]))
             {
                 throw new ArgumentException("Author not valid!");
             }
+
             this.author = value;
         }
     }
 
     public virtual decimal Price
     {
-        get { return this.price; }
+        get => this.price;
         set
         {
             if (value <= 0)

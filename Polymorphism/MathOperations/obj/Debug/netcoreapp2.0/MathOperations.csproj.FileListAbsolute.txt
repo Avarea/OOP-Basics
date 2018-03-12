@@ -1,0 +1,11 @@
+G:\OOP Basics\OOP-Basics\Polymorphism\MathOperations\bin\Debug\netcoreapp2.0\MathOperations.deps.json
+G:\OOP Basics\OOP-Basics\Polymorphism\MathOperations\bin\Debug\netcoreapp2.0\MathOperations.runtimeconfig.json
+G:\OOP Basics\OOP-Basics\Polymorphism\MathOperations\bin\Debug\netcoreapp2.0\MathOperations.runtimeconfig.dev.json
+G:\OOP Basics\OOP-Basics\Polymorphism\MathOperations\bin\Debug\netcoreapp2.0\MathOperations.dll
+G:\OOP Basics\OOP-Basics\Polymorphism\MathOperations\bin\Debug\netcoreapp2.0\MathOperations.pdb
+G:\OOP Basics\OOP-Basics\Polymorphism\MathOperations\obj\Debug\netcoreapp2.0\MathOperations.csprojResolveAssemblyReference.cache
+G:\OOP Basics\OOP-Basics\Polymorphism\MathOperations\obj\Debug\netcoreapp2.0\MathOperations.csproj.CoreCompileInputs.cache
+G:\OOP Basics\OOP-Basics\Polymorphism\MathOperations\obj\Debug\netcoreapp2.0\MathOperations.AssemblyInfoInputs.cache
+G:\OOP Basics\OOP-Basics\Polymorphism\MathOperations\obj\Debug\netcoreapp2.0\MathOperations.AssemblyInfo.cs
+G:\OOP Basics\OOP-Basics\Polymorphism\MathOperations\obj\Debug\netcoreapp2.0\MathOperations.dll
+G:\OOP Basics\OOP-Basics\Polymorphism\MathOperations\obj\Debug\netcoreapp2.0\MathOperations.pdb

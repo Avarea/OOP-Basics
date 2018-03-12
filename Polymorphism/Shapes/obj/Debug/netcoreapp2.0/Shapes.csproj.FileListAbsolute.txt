@@ -1,0 +1,11 @@
+G:\OOP Basics\OOP-Basics\Polymorphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.deps.json
+G:\OOP Basics\OOP-Basics\Polymorphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.json
+G:\OOP Basics\OOP-Basics\Polymorphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.dev.json
+G:\OOP Basics\OOP-Basics\Polymorphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.dll
+G:\OOP Basics\OOP-Basics\Polymorphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.pdb
+G:\OOP Basics\OOP-Basics\Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.csprojResolveAssemblyReference.cache
+G:\OOP Basics\OOP-Basics\Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.csproj.CoreCompileInputs.cache
+G:\OOP Basics\OOP-Basics\Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfoInputs.cache
+G:\OOP Basics\OOP-Basics\Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfo.cs
+G:\OOP Basics\OOP-Basics\Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.dll
+G:\OOP Basics\OOP-Basics\Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.pdb

@@ -1,0 +1,11 @@
+G:\OOP Basics\OOP-Basics\Polymorphism\WildFarm\bin\Debug\netcoreapp2.0\WildFarm.deps.json
+G:\OOP Basics\OOP-Basics\Polymorphism\WildFarm\bin\Debug\netcoreapp2.0\WildFarm.runtimeconfig.json
+G:\OOP Basics\OOP-Basics\Polymorphism\WildFarm\bin\Debug\netcoreapp2.0\WildFarm.runtimeconfig.dev.json
+G:\OOP Basics\OOP-Basics\Polymorphism\WildFarm\bin\Debug\netcoreapp2.0\WildFarm.dll
+G:\OOP Basics\OOP-Basics\Polymorphism\WildFarm\bin\Debug\netcoreapp2.0\WildFarm.pdb
+G:\OOP Basics\OOP-Basics\Polymorphism\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.csprojResolveAssemblyReference.cache
+G:\OOP Basics\OOP-Basics\Polymorphism\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.csproj.CoreCompileInputs.cache
+G:\OOP Basics\OOP-Basics\Polymorphism\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.AssemblyInfoInputs.cache
+G:\OOP Basics\OOP-Basics\Polymorphism\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.AssemblyInfo.cs
+G:\OOP Basics\OOP-Basics\Polymorphism\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.dll
+G:\OOP Basics\OOP-Basics\Polymorphism\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.pdb

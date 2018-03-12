@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\SingleInheritance\bin\Debug\netcoreapp2.0\SingleInheritance.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\SingleInheritance\bin\Debug\netcoreapp2.0\SingleInheritance.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\SingleInheritance\bin\Debug\netcoreapp2.0\SingleInheritance.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\SingleInheritance\bin\Debug\netcoreapp2.0\SingleInheritance.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\SingleInheritance\bin\Debug\netcoreapp2.0\SingleInheritance.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.0\SingleInheritance.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.0\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.0\SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.0\SingleInheritance.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.0\SingleInheritance.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.0\SingleInheritance.pdb

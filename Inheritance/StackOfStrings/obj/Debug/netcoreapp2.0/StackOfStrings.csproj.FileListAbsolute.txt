@@ -1,0 +1,10 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\StackOfStrings\bin\Debug\netcoreapp2.0\StackOfStrings.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\StackOfStrings\bin\Debug\netcoreapp2.0\StackOfStrings.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\StackOfStrings\bin\Debug\netcoreapp2.0\StackOfStrings.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\StackOfStrings\bin\Debug\netcoreapp2.0\StackOfStrings.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\StackOfStrings\bin\Debug\netcoreapp2.0\StackOfStrings.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\StackOfStrings\obj\Debug\netcoreapp2.0\StackOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\StackOfStrings\obj\Debug\netcoreapp2.0\StackOfStrings.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\StackOfStrings\obj\Debug\netcoreapp2.0\StackOfStrings.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\StackOfStrings\obj\Debug\netcoreapp2.0\StackOfStrings.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\StackOfStrings\obj\Debug\netcoreapp2.0\StackOfStrings.pdb

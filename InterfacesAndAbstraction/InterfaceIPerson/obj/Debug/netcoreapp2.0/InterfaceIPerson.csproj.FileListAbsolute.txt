@@ -1,0 +1,11 @@
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\InterfaceIPerson\bin\Debug\netcoreapp2.0\InterfaceIPerson.deps.json
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\InterfaceIPerson\bin\Debug\netcoreapp2.0\InterfaceIPerson.runtimeconfig.json
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\InterfaceIPerson\bin\Debug\netcoreapp2.0\InterfaceIPerson.runtimeconfig.dev.json
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\InterfaceIPerson\bin\Debug\netcoreapp2.0\InterfaceIPerson.dll
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\InterfaceIPerson\bin\Debug\netcoreapp2.0\InterfaceIPerson.pdb
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\InterfaceIPerson\obj\Debug\netcoreapp2.0\InterfaceIPerson.csprojResolveAssemblyReference.cache
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\InterfaceIPerson\obj\Debug\netcoreapp2.0\InterfaceIPerson.csproj.CoreCompileInputs.cache
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\InterfaceIPerson\obj\Debug\netcoreapp2.0\InterfaceIPerson.AssemblyInfoInputs.cache
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\InterfaceIPerson\obj\Debug\netcoreapp2.0\InterfaceIPerson.AssemblyInfo.cs
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\InterfaceIPerson\obj\Debug\netcoreapp2.0\InterfaceIPerson.dll
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\InterfaceIPerson\obj\Debug\netcoreapp2.0\InterfaceIPerson.pdb

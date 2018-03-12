@@ -1,0 +1,10 @@
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.0\CollectionHierarchy.deps.json
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.0\CollectionHierarchy.runtimeconfig.json
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.0\CollectionHierarchy.runtimeconfig.dev.json
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.0\CollectionHierarchy.dll
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\CollectionHierarchy\bin\Debug\netcoreapp2.0\CollectionHierarchy.pdb
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.csproj.CoreCompileInputs.cache
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.AssemblyInfoInputs.cache
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.AssemblyInfo.cs
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.dll
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.pdb

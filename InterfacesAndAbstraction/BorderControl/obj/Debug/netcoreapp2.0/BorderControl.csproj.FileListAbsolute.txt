@@ -1,0 +1,11 @@
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.deps.json
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.runtimeconfig.json
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.runtimeconfig.dev.json
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.dll
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.pdb
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.csprojResolveAssemblyReference.cache
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.csproj.CoreCompileInputs.cache
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.AssemblyInfoInputs.cache
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.AssemblyInfo.cs
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.dll
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.pdb

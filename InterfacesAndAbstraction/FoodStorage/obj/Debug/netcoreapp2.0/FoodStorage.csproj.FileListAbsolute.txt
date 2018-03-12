@@ -1,0 +1,11 @@
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\FoodStorage\obj\Debug\netcoreapp2.0\FoodStorage.csprojResolveAssemblyReference.cache
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\FoodStorage\obj\Debug\netcoreapp2.0\FoodStorage.csproj.CoreCompileInputs.cache
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\FoodStorage\obj\Debug\netcoreapp2.0\FoodStorage.AssemblyInfoInputs.cache
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\FoodStorage\obj\Debug\netcoreapp2.0\FoodStorage.AssemblyInfo.cs
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\FoodStorage\bin\Debug\netcoreapp2.0\FoodStorage.deps.json
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\FoodStorage\bin\Debug\netcoreapp2.0\FoodStorage.runtimeconfig.json
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\FoodStorage\bin\Debug\netcoreapp2.0\FoodStorage.runtimeconfig.dev.json
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\FoodStorage\bin\Debug\netcoreapp2.0\FoodStorage.dll
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\FoodStorage\bin\Debug\netcoreapp2.0\FoodStorage.pdb
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\FoodStorage\obj\Debug\netcoreapp2.0\FoodStorage.dll
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\FoodStorage\obj\Debug\netcoreapp2.0\FoodStorage.pdb

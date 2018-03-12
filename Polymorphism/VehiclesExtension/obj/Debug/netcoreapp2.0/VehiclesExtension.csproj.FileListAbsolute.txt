@@ -1,0 +1,11 @@
+G:\OOP Basics\OOP-Basics\Polymorphism\VehiclesExtension\bin\Debug\netcoreapp2.0\VehiclesExtension.deps.json
+G:\OOP Basics\OOP-Basics\Polymorphism\VehiclesExtension\bin\Debug\netcoreapp2.0\VehiclesExtension.runtimeconfig.json
+G:\OOP Basics\OOP-Basics\Polymorphism\VehiclesExtension\bin\Debug\netcoreapp2.0\VehiclesExtension.runtimeconfig.dev.json
+G:\OOP Basics\OOP-Basics\Polymorphism\VehiclesExtension\bin\Debug\netcoreapp2.0\VehiclesExtension.dll
+G:\OOP Basics\OOP-Basics\Polymorphism\VehiclesExtension\bin\Debug\netcoreapp2.0\VehiclesExtension.pdb
+G:\OOP Basics\OOP-Basics\Polymorphism\VehiclesExtension\obj\Debug\netcoreapp2.0\VehiclesExtension.csprojResolveAssemblyReference.cache
+G:\OOP Basics\OOP-Basics\Polymorphism\VehiclesExtension\obj\Debug\netcoreapp2.0\VehiclesExtension.csproj.CoreCompileInputs.cache
+G:\OOP Basics\OOP-Basics\Polymorphism\VehiclesExtension\obj\Debug\netcoreapp2.0\VehiclesExtension.AssemblyInfoInputs.cache
+G:\OOP Basics\OOP-Basics\Polymorphism\VehiclesExtension\obj\Debug\netcoreapp2.0\VehiclesExtension.AssemblyInfo.cs
+G:\OOP Basics\OOP-Basics\Polymorphism\VehiclesExtension\obj\Debug\netcoreapp2.0\VehiclesExtension.dll
+G:\OOP Basics\OOP-Basics\Polymorphism\VehiclesExtension\obj\Debug\netcoreapp2.0\VehiclesExtension.pdb

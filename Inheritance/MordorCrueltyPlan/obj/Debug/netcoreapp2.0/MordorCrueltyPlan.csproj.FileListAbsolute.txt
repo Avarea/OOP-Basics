@@ -1,0 +1,10 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\MordorCrueltyPlan\obj\Debug\netcoreapp2.0\MordorCrueltyPlan.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\MordorCrueltyPlan\obj\Debug\netcoreapp2.0\MordorCrueltyPlan.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\MordorCrueltyPlan\obj\Debug\netcoreapp2.0\MordorCrueltyPlan.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\MordorCrueltyPlan\bin\Debug\netcoreapp2.0\MordorCrueltyPlan.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\MordorCrueltyPlan\bin\Debug\netcoreapp2.0\MordorCrueltyPlan.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\MordorCrueltyPlan\bin\Debug\netcoreapp2.0\MordorCrueltyPlan.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\MordorCrueltyPlan\bin\Debug\netcoreapp2.0\MordorCrueltyPlan.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\MordorCrueltyPlan\bin\Debug\netcoreapp2.0\MordorCrueltyPlan.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\MordorCrueltyPlan\obj\Debug\netcoreapp2.0\MordorCrueltyPlan.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\MordorCrueltyPlan\obj\Debug\netcoreapp2.0\MordorCrueltyPlan.pdb

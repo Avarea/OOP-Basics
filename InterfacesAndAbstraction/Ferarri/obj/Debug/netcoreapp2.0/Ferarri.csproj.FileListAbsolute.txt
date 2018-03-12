@@ -1,0 +1,11 @@
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\Ferarri\bin\Debug\netcoreapp2.0\Ferarri.deps.json
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\Ferarri\bin\Debug\netcoreapp2.0\Ferarri.runtimeconfig.json
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\Ferarri\bin\Debug\netcoreapp2.0\Ferarri.runtimeconfig.dev.json
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\Ferarri\bin\Debug\netcoreapp2.0\Ferarri.dll
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\Ferarri\bin\Debug\netcoreapp2.0\Ferarri.pdb
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\Ferarri\obj\Debug\netcoreapp2.0\Ferarri.csprojResolveAssemblyReference.cache
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\Ferarri\obj\Debug\netcoreapp2.0\Ferarri.csproj.CoreCompileInputs.cache
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\Ferarri\obj\Debug\netcoreapp2.0\Ferarri.AssemblyInfoInputs.cache
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\Ferarri\obj\Debug\netcoreapp2.0\Ferarri.AssemblyInfo.cs
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\Ferarri\obj\Debug\netcoreapp2.0\Ferarri.dll
+G:\OOP Basics\OOP-Basics\InterfacesAndAbstraction\Ferarri\obj\Debug\netcoreapp2.0\Ferarri.pdb

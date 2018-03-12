@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Animal\bin\Debug\netcoreapp2.0\Animal.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Animal\bin\Debug\netcoreapp2.0\Animal.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Animal\bin\Debug\netcoreapp2.0\Animal.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Animal\bin\Debug\netcoreapp2.0\Animal.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Animal\bin\Debug\netcoreapp2.0\Animal.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Animal\obj\Debug\netcoreapp2.0\Animal.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Animal\obj\Debug\netcoreapp2.0\Animal.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Animal\obj\Debug\netcoreapp2.0\Animal.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Animal\obj\Debug\netcoreapp2.0\Animal.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Animal\obj\Debug\netcoreapp2.0\Animal.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Inheritance\Animal\obj\Debug\netcoreapp2.0\Animal.csprojResolveAssemblyReference.cache
