@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Exams\Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Exams\Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Exams\Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Exams\Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Exams\Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Exams\Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Exams\Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Exams\Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Exams\Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Exams\Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\Exams\Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.pdb
