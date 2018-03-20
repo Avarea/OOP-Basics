@@ -1,0 +1,7 @@
+C:\Users\valch_000\Desktop\CODE\OOP Basics\OOP-Basics\Exams\Avatar\Avatar\bin\Debug\Avatar.exe.config
+C:\Users\valch_000\Desktop\CODE\OOP Basics\OOP-Basics\Exams\Avatar\Avatar\bin\Debug\Avatar.exe
+C:\Users\valch_000\Desktop\CODE\OOP Basics\OOP-Basics\Exams\Avatar\Avatar\bin\Debug\Avatar.pdb
+C:\Users\valch_000\Desktop\CODE\OOP Basics\OOP-Basics\Exams\Avatar\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+C:\Users\valch_000\Desktop\CODE\OOP Basics\OOP-Basics\Exams\Avatar\Avatar\obj\Debug\Avatar.csproj.CoreCompileInputs.cache
+C:\Users\valch_000\Desktop\CODE\OOP Basics\OOP-Basics\Exams\Avatar\Avatar\obj\Debug\Avatar.exe
+C:\Users\valch_000\Desktop\CODE\OOP Basics\OOP-Basics\Exams\Avatar\Avatar\obj\Debug\Avatar.pdb
